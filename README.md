@@ -1,4 +1,5 @@
 # Coffee Orders Sales Dashboard
+ ![Dashboard preview](images/dashboard-preview.png)
 
 An interactive Excel dashboard built from a raw, multi-table coffee order dataset. The project takes three unconnected tables:  orders, customers, and products, and turns them into a clean, filterable sales dashboard.
 
