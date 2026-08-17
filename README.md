@@ -1,5 +1,4 @@
 # excel-coffee-orders-project
-project data was obtained from mochen862 on GitHub
 
 # Coffee Orders Sales Dashboard
 
